@@ -21,7 +21,7 @@ Welcome to **S.A.F.E (Sustainability Assessment Framework for the Environment)**
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/<your-username>/SAFE.git
+    git clone https://github.com/thesaibharath/SAFE
     ```
 2. Navigate to the project directory:
     ```bash
